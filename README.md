@@ -11,4 +11,5 @@ So, whenever you start the server data get inserted in the database.
 Following command is used to run the server:
 
 `npm install`
+
 `nodemon index.js`
