@@ -12,4 +12,4 @@ Following command is used to run the server:
 
 `npm install`
 
-`nodemon index.js`
+`npm run start`
